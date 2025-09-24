@@ -1,0 +1,14 @@
+c:\PracticeWork2\PracticeWork2.2\bin\Debug\net9.0\PracticeWork2.2.exe
+c:\PracticeWork2\PracticeWork2.2\bin\Debug\net9.0\PracticeWork2.2.deps.json
+c:\PracticeWork2\PracticeWork2.2\bin\Debug\net9.0\PracticeWork2.2.runtimeconfig.json
+c:\PracticeWork2\PracticeWork2.2\bin\Debug\net9.0\PracticeWork2.2.dll
+c:\PracticeWork2\PracticeWork2.2\bin\Debug\net9.0\PracticeWork2.2.pdb
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.GeneratedMSBuildEditorConfig.editorconfig
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.AssemblyInfoInputs.cache
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.AssemblyInfo.cs
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.csproj.CoreCompileInputs.cache
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.dll
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\refint\PracticeWork2.2.dll
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.pdb
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\PracticeWork2.2.genruntimeconfig.cache
+c:\PracticeWork2\PracticeWork2.2\obj\Debug\net9.0\ref\PracticeWork2.2.dll
